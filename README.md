@@ -7,3 +7,5 @@ https://github.com/guohongjun/DesignPattern-principle
 
 2.CodeStyle
 http://www.hawstein.com/posts/google-java-style.html
+
+3.eclipse usage
